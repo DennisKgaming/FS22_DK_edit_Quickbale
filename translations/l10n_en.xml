@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    
+
+    <texts>
+		<!-- Colors -->
+		<text name="color_GRIMME_YELLOW" text="GRIMME YELLOW"/>
+		<text name="color_LIGHT_SILVER" text="LIGHT SILVER"/>
+		<text name="color_BLUSH" text="BLUSH"/>
+		<text name="color_TURQUOISE" text="TURQUOISE"/>
+		<text name="color_EINBOECK_GREEN" text="EINBOECK GREEN"/>
+		<text name="color_BREDAL_YELLOW" text="BREDAL YELLOW"/>
+		<text name="color_FENDT_ORANGE" text="FENDT ORANGE"/>
+		<text name="color_PLUM" text="PLUM"/>
+		<text name="color_KRONE_YELLOW" text="KRONE YELLOW"/>
+		<text name="color_SILVER" text="SILVER"/>
+		<text name="color_PEACH" text="PEACH"/>
+		<text name="color_FARMET_BLUE" text="FARMET BLUE"/>
+		<text name="color_KRONE_GREEN" text="KRONE GREEN"/>
+		<text name="color_DEUTZ_YELLOW" text="DEUTZ YELLOW"/>
+		<text name="color_ROTTNE_ORANGE" text="ROTTNE ORANGE"/>
+		<text name="color_PURPLE" text="PURPLE"/>
+		<text name="color_GOLD_CHROME" text="GOLD CHROME"/>
+		<text name="color_BLACK_CHROME" text="BLACK CHROME"/>
+		<text name="color_RED_CHROME" text="RED CHROME"/>
+		<text name="color_BLUE_CHROME" text="BLUE CHROME"/>
+		<text name="color_GREEN_CHROME" text="GREEN CHROME"/>
+		<text name="color_YELLOW_CHROME" text="YELLOW CHROME"/>
+		<text name="color_ORANGE_CHROME" text="ORANGE CHROME"/>
+		<text name="color_PURPLE_CHROME" text="PURPLE CHROME"/>
+		<text name="color_GOLD_GLOSS" text="GOLD GLOSS"/>
+		<text name="color_BLACK_GLOSS" text="BLACK GLOSS"/>
+		<text name="color_RED_GLOSS" text="RED GLOSS"/>
+		<text name="color_BLUE_GLOSS" text="BLUE GLOSS"/>
+		<text name="color_GREEN_GLOSS" text="GREEN GLOSS"/>
+		<text name="color_YELLOW_GLOSS" text="YELLOW GLOSS"/>
+		<text name="color_ORANGE_GLOSS" text="ORANGE GLOSS"/>
+		<text name="color_PURPLE_GLOSS" text="PURPLE GLOSS"/>
+		<text name="color_GOLD_METALFLAKE" text="GOLD METALFLAKE"/>
+		<text name="color_BLACK_METALFLAKE" text="BLACK METALFLAKE"/>
+		<text name="color_RED_METALFLAKE" text="RED METALFLAKE"/>
+		<text name="color_BLUE_METALFLAKE" text="BLUE METALFLAKE"/>
+		<text name="color_GREEN_METALFLAKE" text="GREEN METALFLAKE"/>
+		<text name="color_YELLOW_METALFLAKE" text="YELLOW METALFLAKE"/>
+		<text name="color_ORANGE_METALFLAKE" text="ORANGE METALFLAKE"/>
+		<text name="color_PURPLE_METALFLAKE" text="PURPLE METALFLAKE"/>
+		<text name="color_GOLD_SATIN" text="GOLD SATIN"/>
+		<text name="color_BLACK_SATIN" text="BLACK SATIN"/>
+		<text name="color_RED_SATIN" text="RED SATIN"/>
+		<text name="color_BLUE_SATIN" text="NITRO BLUE"/>
+		<text name="color_GREEN_SATIN" text="GREEN SATIN"/>
+		<text name="color_YELLOW_SATIN" text="YELLOW SATIN"/>
+		<text name="color_ORANGE_SATIN" text="ORANGE SATIN"/>
+		<text name="color_PURPLE_SATIN" text="PURPLE SATIN"/>
+		<text name="color_OLD_KRONE_YELLOW" text="OLD KRONE YELLOW"/>
+		<text name="color_OLD_BLACK" text="OLD BLACK"/>
+		<text name="color_OLD_CASE_RED" text="OLD CASE RED"/>
+		<text name="color_OLD_NH_BLUE" text="OLD NH BLUE"/>
+		<text name="color_OLD_KRONE_GREEN" text="OLD KRONE GREEN"/>
+		<text name="color_OLD_JD_YELLOW" text="OLD JD YELLOW"/>
+		<text name="color_OLD_ORANGE" text="OLD ORANGE"/>
+		<text name="color_OLD_PURPLE" text="OLD PURPLE"/>
+		<text name="color_GOLD_CHECK" text="GOLD CHECK"/>
+		<text name="color_BLACK_CHECK" text="BLACK CHECK"/>
+		<text name="color_RED_CHECK" text="RED CHECK"/>
+		<text name="color_BLUE_CHECK" text="BLUE CHECK"/>
+		<text name="color_JD_GREEN_CHECK" text="JD GREEN CHECK"/>
+		<text name="color_JD_YELLOW_CHECK" text="JD YELLOW CHECK"/>
+		<text name="color_ORANGE_CHECK" text="ORANGE CHECK"/>
+		<text name="color_PURPLE_CHECK" text="PURPLE CHECK"/>
+		<text name="color_STAINLESS_CHECK" text="STAINLESS CHECK"/>
+		<text name="color_CHROME" text="CHROME"/>
+		<text name="color_STAINLESS" text="STAINLESS"/>
+		<text name="color_Tooth_Paste" text="Toothpaste"/>
+		
+		
+		<!-- Bale Wrap Colors -->
+		<text name="KAERCHER_RED" text="Peach"/>
+		
+        
+		
+		<!-- Configuration Types -->
+		
+		<text name="configuration_RearHitches" text="Rear Hitches"/>
+		<text name="configuration_Right" text="Right"/>
+        <text name="configuration_Left" text="Left"/>
+		<text name="configuration_Both" text="Both"/>
+		
+		
+		
+		<!-- Brands -->
+        <text name="No_Brand" text="NO BRAND"/>
+        <text name="AGCO" text="AGCO"/>	
+        <text name="CASEIH" text="CASE"/>
+		<text name="CLAAS" text="CLAAS"/>
+		<text name="FENDT" text="FENDT"/>
+        <text name="GIANTS" text="GIANTS"/>
+        <text name="JOHNDEERE" text="JOHN DEERE"/>
+        <text name="KRONE" text="KRONE"/>
+		<text name="KUBOTA" text="KUBOTA"/>
+		<text name="KUHN" text="KUHN"/>
+        <text name="KVERNELAND" text="KVERNELAND"/>
+		<text name="LELY" text="LELY"/>
+        <text name="LIZARD" text="LIZARD"/>
+        <text name="MASSEYFERGUSON" text="MASSEY FERGUSON"/>
+        <text name="NEWHOLLAND" text="NEW HOLLAND"/>
+		<text name="POTTINGER" text="POTTINGER"/>
+        <text name="VICON" text="VICON"/>		
+		
+		
+
+    </texts>
+</l10n>

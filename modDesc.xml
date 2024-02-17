@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="74">
+    <author>Mark Thor</author>
+    <version>1.0.0.2</version>
+    <title>
+        <en>QuickBale DK edit</en>
+		<de>SchnellBallen DK edit</de>
+		<fr>Balle Rapide DK edit</fr>
+    </title>
+    <description>
+        <en>
+            <![CDATA[The Quickbale is timed to perfection to allow non stop baling and wrapping of all sizes of round bales. The pickup area has been made wider and more efficient so don't have to be worried about missing spots, this is also ideal for the AI workers that need to take wide turns etc
+Price: 60.000 $
+Required power: 100 hp
+Max. working speed: 25 kph
+Bale and wrap 125, 150 and 180 cm bales
+Choice of 104 body colours
+Choice of 103 rim colours
+Choice of 42 wrap colours
+Silage additive tank : 1.000 €
+Non brand option or 10 brand livery options to choose from
+Maize Plus ready
+Can also bale alfalfa, alfalfa hay, clover, clover hay, forage (tmr) and cut sugarbeet
+
+It is advised to keep speeds down for the smaller bales, using cruise control will help with this
+
+ALWAYS DOWNLOAD FROM MODHUB. IF YOU FIND THIS MOD ANYWHERE ELSE, IT HAS BEEN STOLEN AND RE-UPLOADED
+
+Changelog 1.0.0.1:
+Added Quick-Quickbale option with a speed increase for better productivity
+Added toothpaste colour option 
+Added support for soybean straw, corn stalk straw and flax straw
+Added optional trailer hitches
+Added a bale bar to leave bales on end
+Added ability to unload silage additive
+Added 8 tyre options
+Added Claas, Fendt, Kubota, Kuhn, Lely and Pottinger brands
+Increased silage additive capacity from 50l to 60l to match pallet size
+Increased width of pick up
+Removed duplicate l10n entry
+Removed fill level alarm
+Fixed continual wrapping sound bug
+
+Changelog 1.0.0.2:
+Fixed issue with silage additive not working on the standard Quickbale
+Fixed issue with bale bar not working on the standard Quickbale
+]]>
+</en>
+        <de>
+            <![CDATA[Der Quickbale ist perfekt getaktet, um das Pressen und Wickeln von Rundballen aller Größen ohne Unterbrechung zu ermöglichen. Der Aufnahmebereich wurde breiter und effizienter gestaltet, so dass Sie sich keine Sorgen machen müssen, Punkte zu verpassen. Dies ist auch ideal für AI-Arbeiter, die weite Kurven fahren müssen usw.
+Preis: 60.000 €
+Benötigte Leistung: 100 PS
+Arbeitsgeschwindigkeit: 25 km/h
+Kann Ballen von 125, 150 und 180 cm Länge pressen und verpacken
+104 Karosseriefarben zur Auswahl
+Auswahl aus 103 Felgenfarben
+42 Farben für die Ummantelung zur Auswahl
+Siliermittelbehälter: 1.000 €
+Keine Markenoption oder 10 Markenlackierungen zur Auswahl
+Mais Plus bereit
+Kann auch Luzerne, Luzerneheu, Klee, Kleeheu, Grünfutter (tmr) und Zuckerrübenschnitt pressen
+
+Es ist ratsam, die Geschwindigkeit für die kleineren Ballen niedrig zu halten, der Tempomat hilft dabei.
+
+IMMER VON MODHUB HERUNTERLADEN. WENN SIE DIESE MOD IRGENDWO ANDERS ZU FINDEN, WURDE ES GESTOHLEN UND RE-UPLOADED
+
+Änderungsliste 1.0.0.1:
+Quick-Quickbale-Option mit erhöhter Geschwindigkeit für bessere Produktivität hinzugefügt
+Farboption für Zahnpasta hinzugefügt 
+Zusätzliche Unterstützung für Sojabohnenstroh, Maisstroh und Flachsstroh
+Optionale Anhängerkupplung hinzugefügt
+Eine Ballenstange wurde hinzugefügt, um Ballen am Ende zu belassen
+Siliermittel kann jetzt entladen werden
+8 Reifenoptionen hinzugefügt
+Marken Claas, Fendt, Kubota, Kuhn, Lely und Pottinger hinzugefügt
+Das Fassungsvermögen des Siliermittels wurde von 50 l auf 60 l erhöht, um der Palettengröße zu entsprechen.
+Die Breite der Aufnahme wurde erhöht
+Duplizierter l10n-Eintrag wurde entfernt
+Füllstandsalarm entfernt
+Fehler beim kontinuierlichen Wickelgeräusch behoben
+
+Änderungsliste 1.0.0.2:
+Problem behoben, bei dem der Silierzusatz bei der Standard-Quickbale nicht funktionierte
+Problem behoben, dass die Ballenleiste bei der Standard-Quickbale nicht funktioniert
+
+
+]]>
+</de>
+        <fr>
+            <![CDATA[La Quickbale est chronométrée à la perfection pour permettre le pressage et l'enrubannage en continu de balles rondes de toutes tailles. La zone de ramassage a été élargie et rendue plus efficace, de sorte que vous n'avez pas à vous soucier d'oublier des endroits, ce qui est également idéal pour les travailleurs AI qui doivent prendre des virages larges, etc.
+Prix: 60.000 €
+Puissance requise: 100 ch
+Vitesse de travail: 25 km/h
+Possibilité de botteler et d'enrubanner des balles de 125, 150 et 180 cm
+Choix de 104 couleurs de carrosserie
+Choix de 103 couleurs de jantes
+Choix de 42 couleurs d'habillage
+Réservoir d'additif d'ensilage : 1.000
+Option sans marque ou 10 options de livrée de marque au choix
+Maïs Plus prêt
+Peut également presser de la luzerne, du foin de luzerne, du trèfle, du foin de trèfle, du fourrage (tmr) et couper de la betterave sucrière.
+
+Il est conseillé de réduire la vitesse pour les petites balles, ce qui est facilité par l'utilisation du régulateur de vitesse.
+
+TÉLÉCHARGEZ TOUJOURS À PARTIR DE MODHUB. SI VOUS TROUVEZ CE MOD AILLEURS, C'EST QU'IL A ÉTÉ VOLÉ ET RETÉLÉCHARGÉ
+
+Changelog 1.0.0.1 :
+Ajout de l'option Quick-Quickbale avec une augmentation de la vitesse pour une meilleure productivité
+Ajout d'une option de couleur pour le dentifrice 
+Prise en charge de la paille de soja, de la paille de maïs et de la paille de lin
+Ajout d'un attelage de remorque optionnel
+Ajout d'une barre de balles pour laisser les balles sur le côté
+Ajout de la possibilité de décharger l'additif d'ensilage
+Ajout de 8 options de pneus
+Ajout des marques Claas, Fendt, Kubota, Kuhn, Lely et Pottinger.
+Augmentation de la capacité de l'additif d'ensilage de 50 à 60 litres pour correspondre à la taille des palettes
+Augmentation de la largeur du pick-up
+Suppression de l'entrée l10n en double
+Suppression de l'alarme de niveau de remplissage
+Correction du bogue du son d'emballage continu
+
+Changelog 1.0.0.2 :
+Correction d'un problème où l'additif d'ensilage ne fonctionnait pas avec le Quickbale standard
+Correction d'un problème avec la barre de balle qui ne fonctionnait pas sur la Quickbale standard
+
+
+
+]]>
+</fr>
+    </description>
+    <iconFilename>icons/icon_quickbale.dds</iconFilename>
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="xml/quickbale.xml" />
+		 <storeItem xmlFilename="xml/quick_quickbale.xml" />
+    </storeItems>
+	
+	<l10n filenamePrefix="translations/l10n"/>
+	
+	<extraSourceFiles>
+        <sourceFile filename="scripts/categorizer.lua"/>
+    </extraSourceFiles>
+	
+	<newcategory name="DennisKTools" title="DennisK Tools" type="TOOL" img="Categories/CategoryTools.png" />
+
+</modDesc>

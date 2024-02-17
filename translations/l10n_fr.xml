@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    
+
+    <texts>
+		<!-- Couleurs -->
+		<text name="color_GRIMME_YELLOW" text="GRIMME JAUNE"/>
+		<text name="color_LIGHT_SILVER" text="ARGENT CLAIR"/>
+		<text name="color_BLUSH" text="BLUSH"/>
+		<text name="color_TURQUOISE" text="TURQUOISE"/>
+		<text name="color_EINBOECK_GREEN" text="EINBOECK VERT"/>
+		<text name="color_BREDAL_YELLOW" text="BREDAL JAUNE"/>
+		<text name="color_FENDT_ORANGE" text="FENDT ORANGE"/>
+		<text name="color_PLUM" text="PLUM"/>
+		<text name="color_KRONE_YELLOW" text="KRONE JAUNE"/>
+		<text name="color_SILVER" text="ARGENT"/>
+		<text name="color_PEACH" text="PÊCHE"/>
+		<text name="color_FARMET_BLUE" text="FARMET BLEU"/>
+		<text name="color_KRONE_GREEN" text="KRONE VERT"/> 
+		<text name="color_DEUTZ_YELLOW" text="DEUTZ JAUNE"/>
+		<text name="color_ROTTNE_ORANGE" text="ROTTNE ORANGE"/>
+		<text name="color_PURPLE" text="PURPLE"/>
+		<text name="color_GOLD_CHROME" text="CHROME D'OR"/>
+		<text name="color_BLACK_CHROME" text="NOIR CHROME" />
+		<text name="color_RED_CHROME" text="CHROME ROUGE"/>
+		<text name="color_BLUE_CHROME" text="CHROME BLEU"/>
+		<text name="color_GREEN_CHROME" text="CHROME VERT"/> 
+		<text name="color_YELLOW_CHROME" text="CHROME JAUNE"/> 
+		<text name="color_ORANGE_CHROME" text="CHROME ORANGE"/>
+		<text name="color_PURPLE_CHROME" text="CHROME POURPRE"/>
+		<text name="color_GOLD_GLOSS" text="GLOSS D'OR"/> 
+		<text name="color_BLACK_GLOSS" text="NOIR GLOSS"/>
+		<text name="color_RED_GLOSS" text="ROUGE GLOSS"/> 
+		<text name="color_BLUE_GLOSS" text="GLOSS BLEU"/> 
+		<text name="color_GREEN_GLOSS" text="GLOSS VERT"/> 
+		<text name="color_YELLOW_GLOSS" text="GLOSS JAUNE"/> 
+		<text name="color_ORANGE_GLOSS" text="GLOSS ORANGE"/>
+		<text name="color_PURPLE_GLOSS" text="GLOSS POURPLE"/>
+		<text name="color_GOLD_METALFLAKE" text="PAILLETTES D'OR"/> 
+		<text name="color_BLACK_METALFLAKE" text="MÉTALLIQUE NOIR"/>
+		<text name="color_RED_METALFLAKE" text="FLOCON DE MÉTAL ROUGE"/> 
+		<text name="color_GREEN_METALFLAKE" text="MÉTALLIQUE VERT"/> 
+		<text name="color_YELLOW_METALFLAKE" text="MÉTALLIQUE JAUNE"/> 
+		<text name="color_ORANGE_METALFLAKE" text="MÉTALLIQUE ORANGE"/>
+		<text name="color_PURPLE_METALFLAKE" text="MÉTALLIQUE VIOLET"/>
+		<text name="color_GOLD_SATIN" text="SATIN D'OR"/> 
+		<text name="color_BLACK_SATIN" text="SATIN NOIR"/>
+		<text name="color_RED_SATIN" text="SATIN ROUGE"/> 
+		<text name="color_BLUE_SATIN" text="NITRO BLEU"/>
+		<text name="color_GREEN_SATIN" text="SATIN VERT"/> 
+		<text name="color_YELLOW_SATIN" text="SATIN JAUNE"/>
+		<text name="color_ORANGE_SATIN" text="SATIN ORANGE"/>
+		<text name="color_PURPLE_SATIN" text="SATIN POURPRE"/>
+		<text name="color_OLD_KRONE_YELLOW" text="VIEUX KRONE JAUNE"/>
+		<text name="color_OLD_BLACK" text="VIEUX NOIR"/>
+		<text name="color_OLD_CASE_RED" text="OLD CASE RED"/> 
+		<text name="color_OLD_NH_BLUE" text="OLD NH BLEU"/>
+		<text name="color_OLD_KRONE_GREEN" text="OLD KRONE VERT"/>
+		<text name="color_OLD_JD_YELLOW" text="OLD JD JAUNE"/>
+		<text name="color_OLD_ORANGE" text="ORANGE VIEUX"/>
+		<text name="color_OLD_PURPLE" text="VIEUX POURPRE"/>
+		<text name="color_GOLD_CHECK" text="CHÈQUE EN OR"/> 
+		<text name="color_BLACK_CHECK" text="CHECK NOIR"/>
+		<text name="color_RED_CHECK" text="CHECK ROUGE"/> 
+		<text name="color_BLUE_CHECK" text="CHECK BLEU"/> 
+		<text name="color_JD_GREEN_CHECK" text="CHECK VERT"/> 
+		<text name="color_JD_YELLOW_CHECK" text="jd COUVERTURE JAUNE"/>
+		<text name="color_ORANGE_CHECK" text="CHECK ORANGE"/> 
+		<text name="color_PURPLE_CHECK" text="COUVERTURE PURPLE"/> 
+		<text name="color_STAINLESS_CHECK" text="CONTRÔLE EN ACIER INOXYDABLE"/>
+		<text name="color_CHROME" text="CHROME"/>
+		<text name="color_STAINLESS" text="INOX"/>
+		<text name="color_Tooth_Paste" text="PÂTE À DENTS"/>
+		
+		<!-- Couleurs de l'enveloppe de la balle -->
+		<text name="KAERCHER_RED" text="Peach"/>
+		
+        
+		
+		<!-- Types de configuration -->
+		<text name="configuration_silageAdditives" text="Réservoir d'additifs pour l'ensilage"/>
+		<text name="configuration_RearHitches" text="Attelages arrière"/>
+		<text name="configuration_Right" text="Droit"/>
+        <text name="configuration_Left" text="Gauche"/>
+		<text name="configuration_Both" text="Les deux sites"/>
+		
+		<!-- Marques -->
+        <text name="No_Brand" text="NO BRAND"/>
+        <text name="AGCO" text="AGCO"/>	
+        <text name="CASEIH" text="CASE"/>
+		<text name="CLAAS" text="CLAAS"/>
+		<text name="FENDT" text="FENDT"/>
+        <text name="GIANTS" text="GIANTS"/>
+        <text name="JOHNDEERE" text="JOHN DEERE"/>
+        <text name="KRONE" text="KRONE"/>
+		<text name="KUBOTA" text="KUBOTA"/>
+		<text name="KUHN" text="KUHN"/>
+        <text name="KVERNELAND" text="KVERNELAND"/>
+		<text name="LELY" text="LELY"/>
+        <text name="LIZARD" text="LIZARD"/>
+        <text name="MASSEYFERGUSON" text="MASSEY FERGUSON"/>
+        <text name="NEWHOLLAND" text="NEW HOLLAND"/>
+		<text name="POTTINGER" text="POTTINGER"/>
+        <text name="VICON" text="VICON"/>
+		
+
+
+</texts>
+</l10n>
